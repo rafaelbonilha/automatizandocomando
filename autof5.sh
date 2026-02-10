@@ -39,14 +39,10 @@
 # Autor.: Joao Rafael F. Bonilha - Curso de Bash
 #
 #
-#
 # ATENCAO.: Este script devera ser usado em ambiente de testes/lab#
 #
 
 #!/bin/bash
-
-# Auto Key Press para Linux/macOS
-# Dependências: xdotool (Linux) ou cliclick (macOS)
 
 # Configurações padrão
 TECLA="F5"
