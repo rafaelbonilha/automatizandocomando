@@ -50,7 +50,7 @@ if ($uso -gt 75) {
         [System.Windows.Forms.MessageBoxIcon]::Warning
     )
     
-    # Também exibe no console em vermelho
+    # Tambem exibe no console em vermelho
     Write-Host "ALERTA: Memoria RAM esta com $usoFormatado% de uso!" -ForegroundColor Red
     Write-Host "Total: $totalGB GB | Usado: $usadoGB GB | Livre: $livreGB GB" -ForegroundColor Yellow
 } else {
