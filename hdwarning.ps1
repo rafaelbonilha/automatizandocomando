@@ -19,7 +19,7 @@ ATENÇÃO.: Script para estudos de powershell, so use em ambiente de testes/lab.
 Add-Type -AssemblyName System.Windows.Forms
 
 # Caminho do arquivo de log
-$logPath = "D:\RafaelBonilha\Novos_Projetos\AutomatizandoComandosPowershellBashEtc\HistoricoDisco.txt"
+$logPath = "CaminhoOndeVciraSalvaroArquivo\HistoricoDisco.txt"
 
 # Captura data/hora da execucao
 $dataHora = Get-Date -Format "dd/MM/yyyy HH:mm:ss"
@@ -50,5 +50,6 @@ foreach ($d in $discos) {
         Write-Host "Disco $($d.DeviceID) esta saudavel ($usoFormatado% de uso)." -ForegroundColor Green
     }
 }
+
 
 
