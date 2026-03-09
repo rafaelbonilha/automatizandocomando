@@ -13,7 +13,7 @@ Basico.: .\cls_prog.ps1 - Faz a limpeza de arquivos temporários e da lixeira e 
 
 Autor.: Joao Rafael F. Bonilha - Curso de PowerShell
 
-ATENÇÃO.: Script para estudos de powershell, so use em ambiente de testes/lab e use S e N em maíscula para encerrar o scrip.
+ATENÇÃO.: Script para estudos de powershell, so use em ambiente de testes/lab e use S e N em maíuscula para encerrar o scrip.
 
 #>
 
@@ -335,4 +335,5 @@ if ($limparLixeira) {
 
 Write-Host ""
 Write-Host "Pressione qualquer tecla para sair..." -ForegroundColor Gray
+
 $null = $Host.UI.RawUI.ReadKey("NoEcho,IncludeKeyDown")
