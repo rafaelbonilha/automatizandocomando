@@ -12,7 +12,7 @@ Basico.: .\bkp_prog.ps1 - faz o backup de arquivos de um diretório para outro e
 
 Autor.: Joao Rafael F. Bonilha - Curso de PowerShell
 
-ATENÇÃO.: Script para estudos de powershell, so use em ambiente de testes/lab e use S e N em maíscula para encerrar o scrip.
+ATENÇÃO.: Script para estudos de powershell, so use em ambiente de testes/lab e use S e N em maíuscula para encerrar o script.
 
 #>
 
