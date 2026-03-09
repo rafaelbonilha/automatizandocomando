@@ -13,7 +13,7 @@ Basico.: .\test_port.ps1 - Testa a conectivadade numa porta determinada e salva 
 
 Autor.: Joao Rafael F. Bonilha - Curso de PowerShell
 
-ATENÇÃO.: Script para estudos de powershell, so use em ambiente de testes/lab e use S e N em maíuscula para encerrar o scrip.
+ATENÇÃO.: Script para estudos de powershell, so use em ambiente de testes/lab e use S e N em maíuscula para encerrar o script.
 
 #>
 
@@ -226,4 +226,5 @@ if (Test-Path $logFile) {
 
 Write-Host ""
 Write-Host "Pressione qualquer tecla para sair..." -ForegroundColor Gray
+
 $null = $Host.UI.RawUI.ReadKey("NoEcho,IncludeKeyDown")
