@@ -1,5 +1,5 @@
 #
-# Script em Bash que testa a conectivadade numa porta determinada e salva a atividade em arquivo txt
+# Script em Bash que testa a conectividade numa porta determinada e salva a atividade em arquivo txt
 #
 #
 # Para usar.:
