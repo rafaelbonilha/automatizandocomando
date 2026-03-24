@@ -19,13 +19,13 @@ Caso de Uso:
 
 Basico.: .\server_info_v2.ps1 - Exibe informações do servidor e salva em um arquivo txt.
 
-Autor.: Baseado no script de Joao Rafael F. Bonilha - Curso de PowerShell
+Autor.: Joao Rafael F. Bonilha - Curso de PowerShell
 
 #>
 
 Add-Type -AssemblyName System.Windows.Forms
 
-# Configuracoes
+# Configs
 $logDir = "$env:USERPROFILE\InfoServidor"
 $logFile = "$logDir\InfoServidor_$(Get-Date -Format 'yyyy-MM-dd').log"
 $reportFile = "$logDir\Relatorio_$(Get-Date -Format 'yyyy-MM-dd_HH-mm-ss').txt"
