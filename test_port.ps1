@@ -9,7 +9,7 @@ powershell -STA -File Diretorio\test_port.ps1 ou .\test_port.ps1
 
 Caso de Uso.:
 
-Basico.: .\test_port.ps1 - Testa a conectivadade numa porta determinada e salva a atividade em arquivo txt.
+Basico.: .\test_port.ps1 - Testa a conectividade numa porta determinada e salva a atividade em arquivo txt.
 
 Autor.: Joao Rafael F. Bonilha - Curso de PowerShell
 
