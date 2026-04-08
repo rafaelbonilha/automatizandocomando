@@ -22,13 +22,14 @@
 # ./prtsc.sh
 #
 # Para o Linux que usa o Wayland.: 
+#
 # sudo apt install gnome-screenshot
 # ./prtsc.sh 
 #
 # Autor.: Joao Rafael F. Bonilha - Curso de Bash
 #
 #
-# ATENCAO.: Este script devera ser usado em ambiente de testes/lab#
+# ATENCAO.: Este script devera ser usado em ambiente de testes/lab
 #
 #!/bin/bash
 
