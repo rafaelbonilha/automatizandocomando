@@ -2,16 +2,14 @@
 # Script em Bash que valida o dispositivo HDD/SSD/NVMe
 #
 # Para usar.:
-# 1-) Torne o script executavel.: chmod +x#
+# 1-) Torne o script executavel.: chmod +x chk_device.sh
 #
 # 2-) Como usar.:
+# ./chk_device.sh
 #
 # a-) Instale a dependencia smartmontools.:
 # Ubuntu/Debian.: sudo apt install smartmontools
 # CentOS/RHEL.: sudo yum install smartmontools"
-#
-# b-) Uso Basico.:
-# ./chk_device.sh
 #
 # Autor.: Joao Rafael F. Bonilha - Curso de Bash
 #
