@@ -1,7 +1,6 @@
 #
 # Script em Bash o processo travado e salva a atividade em arquivo txt
 #
-#
 # Para usar.:
 # 1-) Torne o script executavel.: chmod +x kill_proc.sh
 #
@@ -25,7 +24,6 @@
 # Processos usando mais de 500MB de RAM
 #
 # Autor.: Joao Rafael F. Bonilha - Curso de Bash
-#
 #
 # ATENCAO.: Este script devera ser usado em ambiente de testes/lab
 #
