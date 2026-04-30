@@ -19,18 +19,14 @@
 #  Arch.:
 #  sudo pacman -S libnotify-bin
 #
-#
 # 3-) Como usar.:
 #
 # Uso Basico.:
 # ./hdwarning.sh 
 #
-#
 # Autor.: Joao Rafael F. Bonilha - Curso de Bash
 #
-#
-# ATENCAO.: Este script devera ser usado em ambiente de testes/lab#
-#
+# ATENCAO.: Este script devera ser usado em ambiente de testes/lab
 #
 #!/bin/bash
 
