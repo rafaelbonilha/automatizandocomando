@@ -26,7 +26,6 @@
 #
 # Autor.: Joao Rafael F. Bonilha - Curso de Bash
 #
-#
 # ATENCAO.: Este script devera ser usado em ambiente de testes/lab
 #
 #!/bin/bash
