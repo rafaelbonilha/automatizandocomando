@@ -16,7 +16,6 @@ ATENÇÃO.: Script para estudos de powershell, so use em ambiente de testes/lab.
 
 #>
 
-
 # Configuracoes
 $tempoEspera = 60  # segundos
 $mensagem = "ATENCAO: O computador sera reiniciado em $tempoEspera segundos. Salve seu trabalho!"
