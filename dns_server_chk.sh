@@ -23,9 +23,7 @@
 # Uso Basico.:
 # ./dns_server_chk.sh
 #
-#
 # Autor.: Joao Rafael F. Bonilha - Curso de Bash
-#
 #
 # ATENCAO.: Este script devera ser usado em ambiente de testes/lab
 #
