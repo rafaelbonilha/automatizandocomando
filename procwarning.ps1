@@ -6,8 +6,6 @@ Exibe os 5 processos que mais consomem CPU e salva o historico em arquivo txt.
 Execute o script em uma sessão PowerShell iniciada com -STA com o comando a seguir:
 powershell -STA -File Diretorio\procwarning.ps1 ou .\procwarning.ps1
 
-Caso de Uso.:
-
 Basico.: .\procwarning.ps1 - exibe os 10 processos que mais consomem CPU e registra o consumo num arquivo de log.
 
 Autor.: Joao Rafael F. Bonilha - Curso de PowerShell
