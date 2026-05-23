@@ -6,8 +6,6 @@ Valida o consumo de memoria RAM e emite alerta se o consumo estiver acima de 75%
 Execute o script em uma sessão PowerShell iniciada com -STA com o comando a seguir:
 powershell -STA -File Diretorio\memwarning.ps1 ou .\memwarning.ps1
 
-Caso de Uso.:
-
 Basico.: .\hdwarning.ps1 - irá mostrar o consumo de disco, avisando o usuario se ultrapassar 75% e registra o consumo num 
 arquivo de log.
 
