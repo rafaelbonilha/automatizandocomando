@@ -6,8 +6,6 @@ Pressiona uma tecla (padrão Print Screen PrtSc) em intervalos regulares.
 Execute o script em uma sessão PowerShell iniciada com -STA com o comando a seguir:
 powershell -STA -File Diretorio\autoprtsc.ps1
 
-Caso de Uso.:
-
 Basico.: .\autoprtsc.ps1 - vai pressionar a tecla Print Screen a cada 20 segundos
 
 Autor.: Joao Rafael F. Bonilha - Curso de PowerShell
