@@ -6,8 +6,6 @@ Exibe os 10 processos que mais consomem banda, avisa o usuário e salva o histor
 Execute o script em uma sessão PowerShell iniciada com -STA com o comando a seguir:
 powershell -STA -File Diretorio\consumernet.ps1 ou .\consumernet.ps1
 
-Caso de Uso.:
-
 Basico.: .\consumernet.ps1 - 10 processos que mais consomem banda, avisa o usuário e salva o historico em arquivo txt.
 
 Autor.: Joao Rafael F. Bonilha - Curso de PowerShell
