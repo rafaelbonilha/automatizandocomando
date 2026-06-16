@@ -18,9 +18,7 @@
 # Uso Basico.:
 # ./cls_prog.sh
 #
-#
 # Autor.: Joao Rafael F. Bonilha - Curso de Bash
-#
 #
 # ATENCAO.: Este script devera ser usado em ambiente de testes/lab
 #
